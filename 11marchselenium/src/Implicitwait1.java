@@ -1,0 +1,4 @@
+
+public class Implicitwait1 {
+
+}
